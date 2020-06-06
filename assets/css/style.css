@@ -56,7 +56,7 @@ article h1 {
 }
 
 article p {
-    font-size: 1.3em;
+    font-size: 1.2em;
     width: 500px;
     padding-bottom: 30px;
 }
@@ -64,6 +64,8 @@ article p {
 .first-illustration {
     background: url(../img/illustration1.gif) right/600px no-repeat;
     height: 80vh;
+    margin-top: -80px;
+    
 }
 
 .second-illustration {
@@ -113,6 +115,7 @@ article p {
     margin: 0 auto;
     text-align: center;
     padding-bottom: 10%;
+    font-size: 1.2em;
 }
 
 .application img {
@@ -136,6 +139,7 @@ article p {
     margin: 0 auto;
     text-align: center;
     padding-bottom: 5%;
+    font-size: 1.2em;
 }
 
 .examples img {
@@ -168,6 +172,7 @@ article p {
     margin: 0 auto;
     text-align: center;
     padding-bottom: 3%;
+    font-size: 1.2em;
 }
 
 .membership {
