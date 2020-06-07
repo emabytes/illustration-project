@@ -86,22 +86,14 @@ article p {
     margin-right: 5px;
 }
 
-.btn.black a {
-    text-decoration: none;
-    color: white;
-}
-
-.btn.white a {
-    text-decoration: none;
-    color: black;
-}
-
 .black {
     background: black;
+    color: white;
 }
 
 .white {
     background: white;
+    color: black;
 }
 
 .application h1 {
@@ -213,11 +205,7 @@ article p {
 .blue {
     background: #24bff2;
     box-shadow: none;
-}
-
-.blue a {
     color: white;
-    text-decoration: none;
 }
 
 footer {
